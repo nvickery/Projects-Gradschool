@@ -1,0 +1,3 @@
+The python program in this folder is a Sudoku Solver. 
+Make sure you have the desired '.csv' files in the same folder as the python program. Go ahead a run the program. 
+When importing a puzzle, only the name of the puzzle is needed and not the file type (ex. "Sudoku2" not Sudoku2.csv). If a typo is made at any point, the program will catch it. To see all the features of the program in use, you may want to run the program twice. 
